@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "477445803746",
+    "project_id": "kin-si",
+    "storage_bucket": "kin-si.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477445803746:android:01e6e1b4e53eea01fa98bb",
+        "android_client_info": {
+          "package_name": "com.example.kin_si"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477445803746-vkkc694afgtlhkf4cbasvc7m7b52v35b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDbj6FfVpIpF6uirF8xCRh-90mQkhXP-Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477445803746-vkkc694afgtlhkf4cbasvc7m7b52v35b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
